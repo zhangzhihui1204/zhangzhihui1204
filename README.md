@@ -6,7 +6,7 @@
 ## 我的项目
 这是一些我在GitHub上的项目，展示了我在不同领域的工作和实践：
 
-- [项目名称 1](https://github.com/zhangzhihui1204/nmap-combine): 对nmap扫描后结果进行整合
+- [nmap-combine](https://github.com/zhangzhihui1204/nmap-combine): 对nmap扫描后结果进行整合
 
 
 ## 联系我
