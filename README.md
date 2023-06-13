@@ -8,22 +8,6 @@ I'm [Your Name], a passionate developer with a love for coding and creating inno
 - 🚀 Committed to delivering high-quality, scalable, and maintainable code
 - 📚 Constantly expanding my knowledge through reading and personal projects
 
-### 🛠️ Tech Stack
-- Programming languages: [List of languages]
-- Frameworks and libraries: [List of frameworks and libraries]
-- Tools and technologies: [List of tools and technologies]
-- Databases: [List of databases]
-- Version control: [List of version control systems]
-
-### 🌐 Find Me Online
-- 🌍 Personal website: [Your website URL]
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/yourprofile)
-
-### 💡 Fun Facts
-- 🎮 I enjoy playing video games in my free time.
-- 📷 Photography is one of my hobbies.
-- 🎵 I'm a music lover and enjoy exploring various genres.
 
 ### 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=dark)
